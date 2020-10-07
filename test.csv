@@ -1,7 +1,7 @@
 name,ring,quadrant,isNew,description
-Python (application development),languages & frameworks,adopt,FALSE,"Many of our current server side solutions have been constructed using Python, though we are looking at other potential options for the future"
-Django,languages & frameworks,adopt,FALSE,"Used for APIs and Websites"
-Python (build scripts & infrastructure),languages & frameworks,adopt,FALSE,"Currently used in Terraform and starting to be used in scripting"
-ignore,tools,hold,FALSE,"nothing"
-ignore2,platforms,hold,FALSE,"nothing"
-ignore3,techniques,hold,FALSE,"nothing"
+Python (application development),Languages & Frameworks,adopt,FALSE,"Many of our current server side solutions have been constructed using Python, though we are looking at other potential options for the future"
+Django,Languages & Frameworks,adopt,FALSE,"Used for APIs and Websites"
+Python (build scripts & infrastructure),Languages & Frameworks,adopt,FALSE,"Currently used in Terraform and starting to be used in scripting"
+ignore,Tools,hold,FALSE,"nothing"
+ignore2,Platforms,hold,FALSE,"nothing"
+ignore3,Techniques,hold,FALSE,"nothing"
