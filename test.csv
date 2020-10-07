@@ -1,4 +1,4 @@
-name,ring,quadrant,isNew,description
+name,quadrant,ring,isNew,description
 Python (application development),Languages & Frameworks,adopt,FALSE,"Many of our current server side solutions have been constructed using Python, though we are looking at other potential options for the future"
 Django,Languages & Frameworks,adopt,FALSE,"Used for APIs and Websites"
 Python (build scripts & infrastructure),Languages & Frameworks,adopt,FALSE,"Currently used in Terraform and starting to be used in scripting"
